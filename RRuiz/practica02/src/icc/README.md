@@ -1,9 +1,9 @@
 ## PRACTICA 2 DE INTRODUCCION A CIENCIAS DE LA COMPUTACION
 
-Raúl Alonso Ruiz D'santillana
-Introducción a Ciencias de la Computación
-Profesor: Salvador López Mendoza
-Laboratorio: Rosa Victoria Villa Padilla
+Raúl Alonso Ruiz D'santillana  
+Introducción a Ciencias de la Computación  
+Profesor: Salvador López Mendoza  
+Laboratorio: Rosa Victoria Villa Padilla  
 
 # ¿De qué trata el programa?
 
